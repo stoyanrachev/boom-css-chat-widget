@@ -31,5 +31,6 @@ html {
 .chat{
 position: fixed;
   bottom: 0;
-  rigth: 0;
+  right: 0;
+  z-index: 2;
 }
